@@ -6,7 +6,7 @@ function ContactUs() {
       id="ContactUs"
     >
       <div className="flex flex-col">
-        <h1 className="text-md text-center sm:mx-8">Contact Us: Anand Chandak</h1>
+        <h1 className="text-md text-center sm:mx-8">Contact Us: Anand</h1>
       </div>
 
       <div className="sm:mx-8">

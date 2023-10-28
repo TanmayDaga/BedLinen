@@ -5,7 +5,10 @@ function ContactUs() {
       className="flex bg-white text-sky-800 w-full h-max justify-between"
       id="ContactUs"
     >
-      <h1 className="text-2xl text-center sm:mx-8">Contact Us</h1>
+      <div className="flex flex-col">
+        <h1 className="text-md text-center sm:mx-8">Contact Us: Anand Chandak</h1>
+      </div>
+
       <div className="sm:mx-8">
         <div>
           <BsFillTelephoneFill className="inline mx-2"></BsFillTelephoneFill>

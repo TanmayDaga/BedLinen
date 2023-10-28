@@ -7,7 +7,7 @@ function Products() {
   const [products, setProducts] = useState(images);
   return (
     <section id="Products" className=" bg-sky-800 text-white mx-0 w-full ">
-      <h1 className="text-3xl my-4"> Products</h1>
+      <h1 className="text-3xl my-4">Our Products</h1>
       <div className="last:mb-4 grid productsView">
         {products.map((product, index) => {
           return (

@@ -35,7 +35,7 @@ export const images = [
     ],
   },
   {
-    name: "Uniform",
+    name: "Uniform and T-shirts",
     images: [
       {
         img: "./assets/HouseKeepingUniform1.jpeg",

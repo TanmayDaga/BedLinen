@@ -3,6 +3,7 @@ import Introduction from "./Components/AboutUs";
 import ContactUs from "./Components/ContactUs";
 import Navbar from "./Components/Navbar";
 import Products from "./Components/Products";
+import { Analytics } from "@vercel/analytics/react";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Introduction />
       <Products />
       <ContactUs />
+      <Analytics />
     </main>
   );
 }
